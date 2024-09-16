@@ -1,1 +1,1 @@
-# Cornell-Project
+# Book Review Sentiment Analysis Project
